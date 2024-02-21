@@ -1,0 +1,9 @@
+numpy
+torch
+tqdm
+gpytorch
+cudatoolkit
+pandas
+gpy
+qmcpy
+sklearn
